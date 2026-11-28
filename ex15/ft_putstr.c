@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: maarslan <maarslan@student.42kocaeli.co    +#+  +:+       +#+        */
+/*   By: maarslan <maarslan@student.42kocaeli.com.tr+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/11/28 13:08:03 by maarslan          #+#    #+#             */
-/*   Updated: 2026/11/28 13:11:49 by maarslan         ###   ########.fr       */
+/*   Created: 2026/11/28 15:52:32 by maarslan          #+#    #+#             */
+/*   Updated: 2026/11/28 15:52:43 by maarslan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

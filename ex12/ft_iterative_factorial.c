@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_iterative_factorial.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: maarslan <maarslan@student.42kocaeli.co    +#+  +:+       +#+        */
+/*   By: maarslan <maarslan@student.42kocaeli.com.tr+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/11/27 05:24:48 by maarslan          #+#    #+#             */
-/*   Updated: 2026/11/28 11:52:48 by maarslan         ###   ########.fr       */
+/*   Created: 2026/11/28 15:52:17 by maarslan          #+#    #+#             */
+/*   Updated: 2026/11/28 15:52:18 by maarslan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

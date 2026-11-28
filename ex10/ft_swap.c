@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_swap.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: maarslan <maarslan@student.42kocaeli.co    +#+  +:+       +#+        */
+/*   By: maarslan <maarslan@student.42kocaeli.com.tr+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/11/26 20:36:02 by maarslan          #+#    #+#             */
-/*   Updated: 2026/11/28 11:50:09 by maarslan         ###   ########.fr       */
+/*   Created: 2026/11/28 15:52:05 by maarslan          #+#    #+#             */
+/*   Updated: 2026/11/28 15:52:06 by maarslan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

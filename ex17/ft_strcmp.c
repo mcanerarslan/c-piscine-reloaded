@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strcmp.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: maarslan <maarslan@student.42kocaeli.co    +#+  +:+       +#+        */
+/*   By: maarslan <maarslan@student.42kocaeli.com.tr+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/28 13:12:34 by maarslan          #+#    #+#             */
-/*   Updated: 2026/11/28 13:16:51 by maarslan         ###   ########.fr       */
+/*   Updated: 2026/11/28 15:52:52 by maarslan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

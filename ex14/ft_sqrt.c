@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_sqrt.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: maarslan <maarslan@student.42kocaeli.co    +#+  +:+       +#+        */
+/*   By: maarslan <maarslan@student.42kocaeli.com.tr+#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/11/28 13:05:59 by maarslan          #+#    #+#             */
-/*   Updated: 2026/11/28 13:06:01 by maarslan         ###   ########.fr       */
+/*   Created: 2026/11/28 15:52:27 by maarslan          #+#    #+#             */
+/*   Updated: 2026/11/28 15:52:27 by maarslan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
