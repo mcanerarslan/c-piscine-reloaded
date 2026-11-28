@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_div_mod.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: maarslan <maarslan@student.42kocaeli.com.t +#+  +:+       +#+        */
+/*   By: maarslan <maarslan@student.42kocaeli.co    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/26 20:38:44 by maarslan          #+#    #+#             */
-/*   Updated: 2026/11/27 05:23:15 by maarslan         ###   ########.fr       */
+/*   Updated: 2026/11/28 11:50:48 by maarslan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

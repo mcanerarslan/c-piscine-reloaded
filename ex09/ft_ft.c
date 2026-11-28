@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ft.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: maarslan <maarslan@student.42kocaeli.com.t +#+  +:+       +#+        */
+/*   By: maarslan <maarslan@student.42kocaeli.co    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/26 20:27:16 by maarslan          #+#    #+#             */
-/*   Updated: 2026/11/26 20:28:54 by maarslan         ###   ########.fr       */
+/*   Updated: 2026/11/28 11:49:37 by maarslan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void    ft_ft(int *nbr)
+void	ft_ft(int *nbr)
 {
-    *nbr = 42;
+	*nbr = 42;
 }
