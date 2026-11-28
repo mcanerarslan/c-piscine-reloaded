@@ -3,18 +3,18 @@
 /*                                                        :::      ::::::::   */
 /*   ft_swap.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: maarslan <maarslan@student.42kocaeli.com.t +#+  +:+       +#+        */
+/*   By: maarslan <maarslan@student.42kocaeli.co    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/26 20:36:02 by maarslan          #+#    #+#             */
-/*   Updated: 2026/11/26 20:38:28 by maarslan         ###   ########.fr       */
+/*   Updated: 2026/11/28 11:50:09 by maarslan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void    ft_swap(int *a, int *b)
+void	ft_swap(int *a, int *b)
 {
-    int temp;
-    
-    temp = *a;
-    *a = *b;
-    *b = temp; 
+	int	temp;
+
+	temp = *a;
+	*a = *b;
+	*b = temp;
 }
